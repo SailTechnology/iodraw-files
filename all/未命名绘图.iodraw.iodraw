@@ -17,9 +17,12 @@
         </mxCell>
         <mxCell id="Ei7n-Wy0SXuvjnKJgL34-1" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="250" as="sourcePoint" />
-            <mxPoint x="340" y="300" as="targetPoint" />
+            <mxPoint x="219.82999999999998" y="200" as="sourcePoint" />
+            <mxPoint x="220" y="240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Ei7n-Wy0SXuvjnKJgL34-2" value="无刷电调自检" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="240" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
