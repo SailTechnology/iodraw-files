@@ -76,10 +76,10 @@
           <mxGeometry x="110" y="250" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ei7n-Wy0SXuvjnKJgL34-16" value="Control_Task&lt;div&gt;（控制任务）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="300" width="120" height="40" as="geometry" />
+          <mxGeometry x="310" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ei7n-Wy0SXuvjnKJgL34-17" value="&amp;nbsp; Failsafe = 0 ？&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Arm&amp;nbsp; = 1&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;？&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="414" y="524" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ei7n-Wy0SXuvjnKJgL34-18" value="Receiver_Task&lt;div&gt;（接收机解码任务）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="300" width="120" height="40" as="geometry" />
@@ -110,12 +110,12 @@
         </mxCell>
         <mxCell id="Ei7n-Wy0SXuvjnKJgL34-23" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="340" as="sourcePoint" />
-            <mxPoint x="370" y="280" as="targetPoint" />
+            <mxPoint x="370" y="400" as="sourcePoint" />
+            <mxPoint x="370" y="340" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="370" y="360" />
-              <mxPoint x="270" y="360" />
-              <mxPoint x="270" y="280" />
+              <mxPoint x="370" y="420" />
+              <mxPoint x="270" y="420" />
+              <mxPoint x="270" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
