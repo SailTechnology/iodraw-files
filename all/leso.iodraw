@@ -325,6 +325,17 @@
             <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="jqWoUHtvuaRyumNHMpI3-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="95" y="490" as="sourcePoint" />
+            <mxPoint x="135" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jqWoUHtvuaRyumNHMpI3-24" value="$$z_{ref}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="jqWoUHtvuaRyumNHMpI3-23">
+          <mxGeometry x="-0.1778" relative="1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
