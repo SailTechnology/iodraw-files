@@ -85,14 +85,14 @@
           <mxGeometry x="380" y="160" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bHKAsEPeBC-T9Aab8ZoD-17" value="$$-\beta_{1}$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="240" width="40" height="40" as="geometry" />
+          <mxGeometry x="380" y="220" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bHKAsEPeBC-T9Aab8ZoD-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bHKAsEPeBC-T9Aab8ZoD-1">
+        <mxCell id="bHKAsEPeBC-T9Aab8ZoD-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bHKAsEPeBC-T9Aab8ZoD-1" target="bHKAsEPeBC-T9Aab8ZoD-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="325" y="260" as="sourcePoint" />
             <mxPoint x="380" y="260" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="325" y="260" />
+              <mxPoint x="325" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
