@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="-J1jQZnu7nhetL0roaEe-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="200" y="165" width="30" height="30" as="geometry" />
+          <mxGeometry x="160" y="165" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-J1jQZnu7nhetL0roaEe-4" value="$$b_{0}$$" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="80" y="160" width="40" height="40" as="geometry" />
@@ -28,6 +28,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="179.82999999999998" as="sourcePoint" />
             <mxPoint x="160" y="179.82999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="syQrXuAMdBfIVPzkNdkl-4" value="+" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="syQrXuAMdBfIVPzkNdkl-2">
+          <mxGeometry x="0.1722" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
