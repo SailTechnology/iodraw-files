@@ -225,6 +225,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="chCQVnRytURULGkRUeej-19" value="$$u_{0}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="221.57142857142856" y="495" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
