@@ -263,7 +263,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jqWoUHtvuaRyumNHMpI3-20" value="$$z`$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=default;labelBackgroundColor=none;" parent="jqWoUHtvuaRyumNHMpI3-2" vertex="1" connectable="0">
+        <mxCell id="jqWoUHtvuaRyumNHMpI3-20" value="$$\dot{z}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=default;labelBackgroundColor=none;" parent="jqWoUHtvuaRyumNHMpI3-2" vertex="1" connectable="0">
           <mxGeometry x="0.2217" y="2" relative="1" as="geometry">
             <mxPoint x="-91" y="-22" as="offset" />
           </mxGeometry>
