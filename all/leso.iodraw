@@ -333,7 +333,7 @@
         </mxCell>
         <mxCell id="jqWoUHtvuaRyumNHMpI3-24" value="$$z_{ref}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="jqWoUHtvuaRyumNHMpI3-23">
           <mxGeometry x="-0.1778" relative="1" as="geometry">
-            <mxPoint y="-10" as="offset" />
+            <mxPoint x="-26" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
