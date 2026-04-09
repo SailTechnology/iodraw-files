@@ -225,11 +225,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="chCQVnRytURULGkRUeej-19" value="$$u_{0}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370.00142857142856" y="490" as="geometry" />
-        </mxCell>
-        <mxCell id="chCQVnRytURULGkRUeej-20" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="358" y="473" width="45" height="30" as="geometry" />
+        <mxCell id="chCQVnRytURULGkRUeej-21" value="$$y$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="519.5710915511527" y="494.7987738732485" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
