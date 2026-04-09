@@ -50,6 +50,12 @@
             <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="bHKAsEPeBC-T9Aab8ZoD-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="165" y="170" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bHKAsEPeBC-T9Aab8ZoD-2" value="+" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="155" y="170" width="10" height="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
