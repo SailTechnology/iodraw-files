@@ -275,11 +275,22 @@
         </mxCell>
         <mxCell id="jqWoUHtvuaRyumNHMpI3-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="325" y="505" as="sourcePoint" />
-            <mxPoint x="365" y="505" as="targetPoint" />
+            <mxPoint x="220" y="514.6" as="sourcePoint" />
+            <mxPoint x="260" y="514.6" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jqWoUHtvuaRyumNHMpI3-13" value="$$u_{0}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="jqWoUHtvuaRyumNHMpI3-12">
+          <mxGeometry x="-0.1778" relative="1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jqWoUHtvuaRyumNHMpI3-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="485" as="sourcePoint" />
+            <mxPoint x="260" y="485" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jqWoUHtvuaRyumNHMpI3-15" value="$$e_{1}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="jqWoUHtvuaRyumNHMpI3-14">
           <mxGeometry x="-0.1778" relative="1" as="geometry">
             <mxPoint y="-10" as="offset" />
           </mxGeometry>
