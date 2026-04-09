@@ -174,6 +174,11 @@
             <mxPoint x="305" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="jqWoUHtvuaRyumNHMpI3-19" value="$$z_{1}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jqWoUHtvuaRyumNHMpI3-1">
+          <mxGeometry x="-0.078" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="chCQVnRytURULGkRUeej-4" value="$$LESO$$" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="480" y="620" width="60" height="60" as="geometry" />
         </mxCell>
