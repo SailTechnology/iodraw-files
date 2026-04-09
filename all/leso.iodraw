@@ -173,17 +173,12 @@
           <mxGeometry x="300" y="580" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="chCQVnRytURULGkRUeej-6" value="$$\frac{1}{b_{0}}$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="335" y="480" width="40" height="40" as="geometry" />
+          <mxGeometry x="310" y="480" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="chCQVnRytURULGkRUeej-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="499.8" as="sourcePoint" />
             <mxPoint x="310" y="499.8" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="chCQVnRytURULGkRUeej-9" value="$$u_{0}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="chCQVnRytURULGkRUeej-8">
-          <mxGeometry x="-0.1778" relative="1" as="geometry">
-            <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
