@@ -84,6 +84,9 @@
         <mxCell id="bHKAsEPeBC-T9Aab8ZoD-16" value="$$-\beta_{2}$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="160" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="bHKAsEPeBC-T9Aab8ZoD-17" value="$$-\beta_{2}$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="385" y="165" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
