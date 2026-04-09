@@ -336,7 +336,7 @@
             <mxPoint x="-26" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jqWoUHtvuaRyumNHMpI3-25" value="$$Trajectory$$&lt;span style=&quot;background-color: initial;&quot;&gt;$$Generator$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="jqWoUHtvuaRyumNHMpI3-25" value="$$Trajectory$$&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;$$Generator$$&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="130" y="485" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jqWoUHtvuaRyumNHMpI3-26" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
