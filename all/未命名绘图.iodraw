@@ -64,8 +64,11 @@
         </mxCell>
         <mxCell id="bHKAsEPeBC-T9Aab8ZoD-4" value="$$y$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="bHKAsEPeBC-T9Aab8ZoD-3">
           <mxGeometry x="-0.1778" relative="1" as="geometry">
-            <mxPoint x="10" y="-6" as="offset" />
+            <mxPoint x="10" y="-1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bHKAsEPeBC-T9Aab8ZoD-7" value="-" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="155" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
