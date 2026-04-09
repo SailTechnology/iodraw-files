@@ -286,7 +286,7 @@
         </mxCell>
         <mxCell id="jqWoUHtvuaRyumNHMpI3-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="485" as="sourcePoint" />
+            <mxPoint x="160" y="485" as="sourcePoint" />
             <mxPoint x="260" y="485" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -294,6 +294,15 @@
           <mxGeometry x="-0.1778" relative="1" as="geometry">
             <mxPoint y="-10" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jqWoUHtvuaRyumNHMpI3-16" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="470" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jqWoUHtvuaRyumNHMpI3-17" value="$$+$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="470" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jqWoUHtvuaRyumNHMpI3-18" value="$$-$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="500" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
