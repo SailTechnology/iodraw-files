@@ -336,13 +336,13 @@
             <mxPoint x="-26" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jqWoUHtvuaRyumNHMpI3-25" value="$$LSEF$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="485" width="60" height="60" as="geometry" />
+        <mxCell id="jqWoUHtvuaRyumNHMpI3-25" value="$$Trajectory$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="480" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jqWoUHtvuaRyumNHMpI3-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="515" as="sourcePoint" />
-            <mxPoint x="150" y="515" as="targetPoint" />
+            <mxPoint x="30" y="529.6" as="sourcePoint" />
+            <mxPoint x="70" y="529.6" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jqWoUHtvuaRyumNHMpI3-27" value="$$z_{ref}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="jqWoUHtvuaRyumNHMpI3-26">
