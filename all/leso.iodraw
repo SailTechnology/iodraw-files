@@ -337,7 +337,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jqWoUHtvuaRyumNHMpI3-25" value="$$Trajectory$$&lt;div&gt;$$Generator$$&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="480" width="70" height="70" as="geometry" />
+          <mxGeometry x="125" y="490" width="85" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jqWoUHtvuaRyumNHMpI3-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
