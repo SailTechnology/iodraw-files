@@ -58,7 +58,7 @@
         </mxCell>
         <mxCell id="bHKAsEPeBC-T9Aab8ZoD-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.344;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="325" y="125" as="sourcePoint" />
+            <mxPoint x="325" y="115" as="sourcePoint" />
             <mxPoint x="324.87000000000006" y="165" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -108,12 +108,12 @@
         <mxCell id="bHKAsEPeBC-T9Aab8ZoD-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="179.79999999999998" as="sourcePoint" />
-            <mxPoint x="560" y="180" as="targetPoint" />
+            <mxPoint x="570" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bHKAsEPeBC-T9Aab8ZoD-25" value="$$z_{2}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="bHKAsEPeBC-T9Aab8ZoD-24">
           <mxGeometry x="-0.1778" relative="1" as="geometry">
-            <mxPoint y="-10" as="offset" />
+            <mxPoint x="16" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bHKAsEPeBC-T9Aab8ZoD-26" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
