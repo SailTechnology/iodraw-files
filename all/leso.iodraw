@@ -400,10 +400,10 @@
           <mxGeometry x="1260" y="210" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Qvo_zH-bCCYIUxRIE9xb-4" value="IMU" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1285" y="465" width="40" height="40" as="geometry" />
+          <mxGeometry x="1280" y="420" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qvo_zH-bCCYIUxRIE9xb-5" value="磁力计" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1340" y="465" width="40" height="40" as="geometry" />
+          <mxGeometry x="1340" y="420" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qvo_zH-bCCYIUxRIE9xb-7" value="电机1" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1200" y="210" width="40" height="40" as="geometry" />
@@ -430,10 +430,10 @@
           <mxGeometry x="1420" y="590" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qvo_zH-bCCYIUxRIE9xb-15" value="2.4GHz&lt;div&gt;数传电台&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1420" y="400" width="80" height="40" as="geometry" />
+          <mxGeometry x="1420" y="340" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qvo_zH-bCCYIUxRIE9xb-16" value="GPS" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1420" y="460" width="80" height="40" as="geometry" />
+          <mxGeometry x="1420" y="420" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
