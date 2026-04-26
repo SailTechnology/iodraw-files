@@ -429,10 +429,10 @@
         <mxCell id="Qvo_zH-bCCYIUxRIE9xb-14" value="温深传感器" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1420" y="560" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qvo_zH-bCCYIUxRIE9xb-15" value="2.4Ghz&lt;div&gt;数传电台&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qvo_zH-bCCYIUxRIE9xb-15" value="2.4GHz&lt;div&gt;数传电台&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1420" y="400" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qvo_zH-bCCYIUxRIE9xb-16" value="数传电台" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qvo_zH-bCCYIUxRIE9xb-16" value="GPS" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1420" y="460" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
