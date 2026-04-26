@@ -400,9 +400,9 @@
           <mxGeometry x="1260" y="220" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Qvo_zH-bCCYIUxRIE9xb-4" value="IMU" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1270" y="465" width="40" height="40" as="geometry" />
+          <mxGeometry x="1265" y="465" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qvo_zH-bCCYIUxRIE9xb-5" value="IMU" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qvo_zH-bCCYIUxRIE9xb-5" value="磁力计" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1315" y="465" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
