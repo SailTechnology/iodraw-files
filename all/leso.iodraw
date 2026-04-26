@@ -420,8 +420,8 @@
         <mxCell id="Qvo_zH-bCCYIUxRIE9xb-11" value="ROM" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1355" y="465" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qvo_zH-bCCYIUxRIE9xb-12" value="电机2" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1180" y="560" width="40" height="40" as="geometry" />
+        <mxCell id="Qvo_zH-bCCYIUxRIE9xb-12" value="释放磁铁1" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1180" y="560" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
