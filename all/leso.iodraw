@@ -408,6 +408,15 @@
         <mxCell id="Qvo_zH-bCCYIUxRIE9xb-7" value="电机1" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1185" y="210" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Qvo_zH-bCCYIUxRIE9xb-8" value="电机2" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1185" y="270" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qvo_zH-bCCYIUxRIE9xb-9" value="电机1" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1465" y="275" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qvo_zH-bCCYIUxRIE9xb-10" value="电机1" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1440" y="205" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
