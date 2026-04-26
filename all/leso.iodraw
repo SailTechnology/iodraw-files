@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="691" dy="399" grid="0" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#ffffff" math="1" shadow="0">
+    <mxGraphModel dx="830" dy="478" grid="0" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#ffffff" math="1" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -390,19 +390,19 @@
             <mxPoint x="-31" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qvo_zH-bCCYIUxRIE9xb-1" value="飞行控制电路板" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qvo_zH-bCCYIUxRIE9xb-1" value="飞行控制电路板" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1260" y="320" width="140" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Qvo_zH-bCCYIUxRIE9xb-2" value="水下控制电路板" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qvo_zH-bCCYIUxRIE9xb-2" value="水下控制电路板" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1260" y="500" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Qvo_zH-bCCYIUxRIE9xb-3" value="电子调速器" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qvo_zH-bCCYIUxRIE9xb-3" value="电子调速器" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1260" y="210" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Qvo_zH-bCCYIUxRIE9xb-4" value="IMU" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qvo_zH-bCCYIUxRIE9xb-4" value="IMU" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1280" y="420" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qvo_zH-bCCYIUxRIE9xb-5" value="磁力计" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qvo_zH-bCCYIUxRIE9xb-5" value="磁力计" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1340" y="420" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qvo_zH-bCCYIUxRIE9xb-7" value="电机1" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -417,7 +417,7 @@
         <mxCell id="Qvo_zH-bCCYIUxRIE9xb-10" value="电机3" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1420" y="210" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qvo_zH-bCCYIUxRIE9xb-11" value="ROM" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qvo_zH-bCCYIUxRIE9xb-11" value="ROM" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1310" y="335" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qvo_zH-bCCYIUxRIE9xb-12" value="负载&lt;div&gt;释放磁铁1&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -426,19 +426,19 @@
         <mxCell id="Qvo_zH-bCCYIUxRIE9xb-13" value="负载&lt;div&gt;释放磁铁2&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1180" y="545" width="60" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Qvo_zH-bCCYIUxRIE9xb-14" value="温深传感器" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qvo_zH-bCCYIUxRIE9xb-14" value="温深传感器" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1420" y="520" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qvo_zH-bCCYIUxRIE9xb-15" value="2.4GHz&lt;div&gt;数传电台&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qvo_zH-bCCYIUxRIE9xb-15" value="2.4GHz&lt;div&gt;数传电台&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1420" y="340" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qvo_zH-bCCYIUxRIE9xb-16" value="GPS" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qvo_zH-bCCYIUxRIE9xb-16" value="GPS" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1420" y="420" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qvo_zH-bCCYIUxRIE9xb-17" value="磁控总电源开关" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qvo_zH-bCCYIUxRIE9xb-17" value="磁控总电源开关" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1260" y="150" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qvo_zH-bCCYIUxRIE9xb-19" value="霍尔传感器" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qvo_zH-bCCYIUxRIE9xb-19" value="霍尔传感器" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1420" y="150" width="65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qvo_zH-bCCYIUxRIE9xb-20" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Qvo_zH-bCCYIUxRIE9xb-7">
