@@ -394,7 +394,7 @@
           <mxGeometry x="1260" y="320" width="140" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Qvo_zH-bCCYIUxRIE9xb-2" value="水下控制电路板" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1260" y="560" width="140" height="80" as="geometry" />
+          <mxGeometry x="1260" y="560" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Qvo_zH-bCCYIUxRIE9xb-3" value="无刷电机电子调速器" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1260" y="200" width="140" height="100" as="geometry" />
@@ -423,8 +423,8 @@
         <mxCell id="Qvo_zH-bCCYIUxRIE9xb-12" value="负载&lt;div&gt;释放磁铁1&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1180" y="560" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qvo_zH-bCCYIUxRIE9xb-13" value="负载&lt;div&gt;释放磁铁1&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1185" y="565" width="60" height="40" as="geometry" />
+        <mxCell id="Qvo_zH-bCCYIUxRIE9xb-13" value="负载&lt;div&gt;释放磁铁2&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1180" y="620" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
