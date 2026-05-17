@@ -705,8 +705,8 @@
             <mxPoint x="1334.89" y="129.99999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6ggUz2CDc7-rnk4Wwn1O-2" value="&lt;div&gt;6S电池包&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1310" y="90" width="40" height="40" as="geometry" />
+        <mxCell id="6ggUz2CDc7-rnk4Wwn1O-2" value="&lt;div&gt;锂电池包&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1310" y="90" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
