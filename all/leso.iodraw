@@ -705,8 +705,11 @@
             <mxPoint x="1334.89" y="129.99999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6ggUz2CDc7-rnk4Wwn1O-2" value="&lt;div&gt;锂电池包&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;rounded=1;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6ggUz2CDc7-rnk4Wwn1O-2" value="&lt;div&gt;锂电池包&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#000000;rounded=1;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1290" y="90" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6ggUz2CDc7-rnk4Wwn1O-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.962;entryY=0.914;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Qvo_zH-bCCYIUxRIE9xb-19" target="Qvo_zH-bCCYIUxRIE9xb-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
