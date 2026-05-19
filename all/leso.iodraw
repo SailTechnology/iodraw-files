@@ -709,7 +709,7 @@
           <mxGeometry x="1290" y="90" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Fy0FXQ6eoKao7c2_f0s4-0" value="读取全局数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1293" y="785" width="80" height="60" as="geometry" />
+          <mxGeometry x="1280" y="883" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
