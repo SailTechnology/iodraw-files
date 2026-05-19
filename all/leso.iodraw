@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1430" dy="825" grid="0" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#ffffff" math="1" shadow="0">
+    <mxGraphModel dx="546" dy="819" grid="0" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#ffffff" math="1" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -708,8 +708,8 @@
         <mxCell id="6ggUz2CDc7-rnk4Wwn1O-2" value="&lt;div&gt;锂电池包&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1290" y="90" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Fy0FXQ6eoKao7c2_f0s4-0" value="$$&lt;br/&gt;\begin{matrix}&lt;br/&gt;\text{Trajectory} \\&lt;br/&gt;\text{Generator}&lt;br/&gt;\end{matrix}&lt;br/&gt;$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="135" y="490" width="80" height="60" as="geometry" />
+        <mxCell id="Fy0FXQ6eoKao7c2_f0s4-0" value="读取全局数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1293" y="785" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
